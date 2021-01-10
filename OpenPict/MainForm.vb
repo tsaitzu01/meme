@@ -9,7 +9,7 @@ Public Class MainForm
     '-------------------------------------------Configure FireSharp
     Public fcon As New FirebaseConfig() With
         {
-        .AuthSecret = "wIyDJxCoubhdJj1M5gByeRJdGt5PHmFvWkAlzFnu",
+        .AuthSecret = "(Input your own Auth Secret)",
         .BasePath = "https://vbnetdatabase-default-rtdb.firebaseio.com/"
         }
     Public client As IFirebaseClient
