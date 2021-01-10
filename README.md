@@ -3,7 +3,7 @@ This is a **Meme Generator** developed by Visual basic
 
 ## How to use this generator?
 * Download __.exe__.
-> If firebase database still work, then you can preview and download other's meme, besides, you can make your own meme.
+> If firebase database still work, then you can preview and download other's meme, besides, you can make your own meme.<br/>
 > If firebase is close, then the error message would be shown. However, you can create a firebase realtime database to make this project work.
 
 ## How to connect firebase and visual basic?
