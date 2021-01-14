@@ -2,7 +2,7 @@
 This is a **Meme Generator** developed by Visual basic
 
 ## How to use this generator?
-* Download __.exe__.
+* Download __OpenPic.exe__.
 > If firebase database still work, then you can preview and download other's meme, besides, you can make your own meme.<br/>
 > If firebase is close, then the error message would be shown. However, you can create a firebase realtime database to make this project work.
 
@@ -24,7 +24,7 @@ Now, modify some codes to connect your firebase and your vb project!
     Public client As IFirebaseClient
     '-------------------------------------------
 ```
-2. Add Try Catch code in Page_Load function in above page
+2. Add Try Catch code in `Page_Load` function in above page
 ```
   Try
     client = New FireSharp.FirebaseClient(fcon)
